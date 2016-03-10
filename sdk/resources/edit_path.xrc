@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resource>
+	<object class="wxScrollingDialog" name="dlgEditPath">
+		<title>Edit path</title>
+		<centered>1</centered>
+		<object class="wxBoxSizer">
+			<orient>wxVERTICAL</orient>
+			<object class="sizeritem">
+				<object class="wxBoxSizer">
+					<object class="sizeritem">
+						<object class="wxStaticText" name="lblText">
+							<label>Directory:</label>
+						</object>
+						<flag>wxTOP|wxALIGN_LEFT|wxALIGN_TOP</flag>
+						<border>4</border>
+					</object>
+					<object class="sizeritem">
+						<object class="wxTextCtrl" name="txtPath" />
+						<flag>wxLEFT|wxRIGHT|wxEXPAND|wxALIGN_LEFT|wxALIGN_TOP</flag>
+						<border>8</border>
+						<option>1</option>
+					</object>
+					<object class="sizeritem">
+						<object class="wxButton" name="btnBrowse">
+							<label>...</label>
+							<tooltip>Browse</tooltip>
+						</object>
+						<flag>wxALIGN_LEFT|wxALIGN_TOP</flag>
+					</object>
+				</object>
+				<flag>wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_TOP</flag>
+				<border>8</border>
+				<option>1</option>
+			</object>
+			<object class="sizeritem">
+				<object class="wxStaticLine" name="ID_STATICLINE1" />
+				<flag>wxLEFT|wxRIGHT|wxEXPAND|wxALIGN_LEFT|wxALIGN_TOP</flag>
+				<border>8</border>
+			</object>
+			<object class="sizeritem">
+				<object class="wxStdDialogButtonSizer">
+					<object class="button">
+						<object class="wxButton" name="wxID_OK">
+							<label></label>
+						</object>
+					</object>
+					<object class="button">
+						<object class="wxButton" name="wxID_CANCEL">
+							<label></label>
+						</object>
+					</object>
+				</object>
+				<flag>wxALL|wxALIGN_TOP|wxALIGN_CENTER_HORIZONTAL</flag>
+				<border>8</border>
+			</object>
+		</object>
+	</object>
+</resource>

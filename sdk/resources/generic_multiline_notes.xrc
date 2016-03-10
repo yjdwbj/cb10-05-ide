@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resource>
+	<object class="wxScrollingDialog" name="dlgGenericMultiLineNotes">
+		<title>Notes</title>
+		<centered>1</centered>
+		<style>wxDEFAULT_DIALOG_STYLE|wxRESIZE_BORDER|wxMAXIMIZE_BOX</style>
+		<object class="wxBoxSizer">
+			<orient>wxVERTICAL</orient>
+			<object class="sizeritem">
+				<object class="wxTextCtrl" name="txtNotes">
+					<style>wxTE_PROCESS_TAB|wxTE_MULTILINE</style>
+				</object>
+				<flag>wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_TOP</flag>
+				<border>5</border>
+				<option>1</option>
+			</object>
+			<object class="sizeritem">
+				<object class="wxStdDialogButtonSizer">
+					<object class="button">
+						<object class="wxButton" name="wxID_OK">
+							<label></label>
+						</object>
+					</object>
+					<object class="button">
+						<object class="wxButton" name="wxID_CANCEL">
+							<label></label>
+						</object>
+					</object>
+				</object>
+				<flag>wxBOTTOM|wxLEFT|wxRIGHT|wxALIGN_TOP|wxALIGN_CENTER_HORIZONTAL</flag>
+				<border>5</border>
+			</object>
+		</object>
+	</object>
+</resource>

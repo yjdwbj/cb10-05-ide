@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resource>
+	<object class="wxScrollingDialog" name="dlgEditArrayString">
+		<title>Edit array</title>
+		<centered>1</centered>
+		<style>wxDEFAULT_DIALOG_STYLE|wxRESIZE_BORDER</style>
+		<object class="wxBoxSizer">
+			<orient>wxVERTICAL</orient>
+			<object class="sizeritem">
+				<object class="wxBoxSizer">
+					<object class="sizeritem">
+						<object class="wxListBox" name="lstItems" />
+						<flag>wxEXPAND|wxALIGN_LEFT|wxALIGN_TOP</flag>
+						<option>1</option>
+					</object>
+					<object class="sizeritem">
+						<object class="wxBoxSizer">
+							<orient>wxVERTICAL</orient>
+							<object class="sizeritem">
+								<object class="wxButton" name="btnAdd">
+									<label>&amp;Add</label>
+								</object>
+								<flag>wxALIGN_LEFT|wxALIGN_TOP</flag>
+							</object>
+							<object class="sizeritem">
+								<object class="wxButton" name="btnEdit">
+									<label>&amp;Edit</label>
+								</object>
+								<flag>wxALIGN_LEFT|wxALIGN_TOP</flag>
+							</object>
+							<object class="sizeritem">
+								<object class="wxButton" name="btnDelete">
+									<label>&amp;Delete</label>
+								</object>
+								<flag>wxALIGN_LEFT|wxALIGN_TOP</flag>
+							</object>
+						</object>
+						<flag>wxLEFT|wxALIGN_LEFT|wxALIGN_TOP</flag>
+						<border>8</border>
+					</object>
+				</object>
+				<flag>wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_TOP</flag>
+				<border>8</border>
+				<option>1</option>
+			</object>
+			<object class="sizeritem">
+				<object class="wxStaticLine" name="ID_STATICLINE1" />
+				<flag>wxBOTTOM|wxLEFT|wxRIGHT|wxEXPAND|wxALIGN_LEFT|wxALIGN_TOP</flag>
+				<border>8</border>
+			</object>
+			<object class="sizeritem">
+				<object class="wxStdDialogButtonSizer">
+					<object class="button">
+						<object class="wxButton" name="wxID_OK">
+							<label></label>
+						</object>
+					</object>
+					<object class="button">
+						<object class="wxButton" name="wxID_CANCEL">
+							<label></label>
+						</object>
+					</object>
+				</object>
+				<flag>wxBOTTOM|wxLEFT|wxRIGHT|wxALIGN_TOP|wxALIGN_CENTER_HORIZONTAL</flag>
+				<border>8</border>
+			</object>
+		</object>
+	</object>
+</resource>

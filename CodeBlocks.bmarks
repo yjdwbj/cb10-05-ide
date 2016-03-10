@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="All" />
+	<File name="base\tinyxml\tinystr.cpp" open="0" top="0" tabpos="21">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="base\tinyxml\tinywxuni.cpp" open="0" top="0" tabpos="19">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="base\tinyxml\tinyxml.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="base\tinyxml\tinyxmlparser.cpp" open="0" top="0" tabpos="31">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="build_tools\autorevision\autorevision.cpp" open="0" top="0" tabpos="14">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="disassemblyfind.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\backgroundthread.h" open="0" top="0" tabpos="34">
+		<Cursor position="3771" topLine="106" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="include\cbauibook.h" open="1" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="include\cbeditor.h" open="0" top="0" tabpos="19">
+		<Cursor position="7619" topLine="173" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="include\cbplugin.h" open="0" top="0" tabpos="9">
+		<Cursor position="1110" topLine="17" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="include\cbproject.h" open="0" top="0" tabpos="5">
+		<Cursor position="13434" topLine="258" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="include\cbthreadpool.h" open="0" top="0" tabpos="13">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\cbworkspace.h" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\compileoptionsbase.h" open="0" top="0" tabpos="28">
+		<Cursor position="845" topLine="15" />
+	</File>
+	<File name="include\compiler.h" open="0" top="0" tabpos="5">
+		<Cursor position="8035" topLine="189" />
+	</File>
+	<File name="include\compilerfactory.h" open="0" top="0" tabpos="8">
+		<Cursor position="399" topLine="14" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="include\compileroptions.h" open="0" top="0" tabpos="15">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\compiletargetbase.h" open="0" top="0" tabpos="4">
+		<Cursor position="8126" topLine="111" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="include\configmanager.h" open="0" top="0" tabpos="30">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\editorbase.h" open="0" top="0" tabpos="16">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\editorcolourset.h" open="0" top="0" tabpos="17">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\editorconfigurationdlg.h" open="0" top="0" tabpos="45">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\editormanager.h" open="0" top="0" tabpos="18">
+		<Cursor position="4741" topLine="93" />
+	</File>
+	<File name="include\encodingdetector.h" open="0" top="0" tabpos="37">
+		<Cursor position="1775" topLine="0" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="include\filegroupsandmasks.h" open="0" top="0" tabpos="19">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\filemanager.h" open="0" top="0" tabpos="28">
+		<Cursor position="602" topLine="0" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="include\globals.h" open="0" top="0" tabpos="31">
+		<Cursor position="2929" topLine="103" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="include\incrementalselectlistdlg.h" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\loggers.h" open="0" top="0" tabpos="21">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\logmanager.h" open="0" top="0" tabpos="20">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\macrosmanager.h" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\manager.h" open="0" top="0" tabpos="22">
+		<Cursor position="0" topLine="0" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="include\mozilla_chardet\nsCodingStateMachine.h" open="1" top="0" tabpos="22">
+		<Cursor position="0" topLine="0" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="include\mozilla_chardet\nsError.h" open="0" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\pluginmanager.h" open="0" top="0" tabpos="23">
+		<Cursor position="2466" topLine="50" />
+	</File>
+	<File name="include\projectbuildtarget.h" open="0" top="0" tabpos="24">
+		<Cursor position="5521" topLine="99" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="include\projectfile.h" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\projectmanager.h" open="0" top="0" tabpos="10">
+		<Cursor position="3813" topLine="61" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="include\projectsfilemasksdlg.h" open="0" top="0" tabpos="24">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\scripting\squirrel\sqclosure.h" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\scripting\squirrel\sqfuncstate.h" open="0" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\scripting\squirrel\sqstate.h" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\scripting\squirrel\squtils.h" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\sdk.h" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\sdk_events.h" open="0" top="0" tabpos="15">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\sdk_precomp.h" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\searchresultslog.h" open="0" top="0" tabpos="15">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\astyle\astyle\ASFormatter.cpp" open="0" top="0" tabpos="51">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\astyle\astyle\ASResource.cpp" open="0" top="0" tabpos="15">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\astyle\astyle\astyle_main.cpp" open="0" top="0" tabpos="56">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\astyle\astyleconfigdlg.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="1757" topLine="17" />
+	</File>
+	<File name="plugins\astyle\astyleplugin.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\astyle\resources\manifest.xml" open="0" top="0" tabpos="57">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\classwizard\classwizarddlg.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\codecompletion\ccdebuginfo.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\codecompletion\ccoptionsdlg.cpp" open="0" top="0" tabpos="33">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\codecompletion\classbrowser.cpp" open="0" top="0" tabpos="23">
+		<Cursor position="0" topLine="0" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="plugins\codecompletion\classbrowserbuilderthread.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\codecompletion\codecompletion.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\codecompletion\nativeparser.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="12483" topLine="242" />
+	</File>
+	<File name="plugins\codecompletion\parser\searchtree.cpp" open="0" top="0" tabpos="20">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\codecompletion\parser\tokenizer.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="6497" topLine="638" />
+	</File>
+	<File name="plugins\compilergcc\advancedcompileroptionsdlg.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="1797" topLine="24" />
+	</File>
+	<File name="plugins\compilergcc\advancedcompileroptionsdlg.h" open="0" top="0" tabpos="10">
+		<Cursor position="462" topLine="0" />
+	</File>
+	<File name="plugins\compilergcc\compilerAC7XX.cpp" open="0" top="0" tabpos="16">
+		<Cursor position="10743" topLine="190" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="plugins\compilergcc\compilerAC7XX.h" open="0" top="0" tabpos="16">
+		<Cursor position="537" topLine="0" />
+	</File>
+	<File name="plugins\compilergcc\compilerDSP.cpp" open="0" top="0" tabpos="14">
+		<Cursor position="455" topLine="0" />
+	</File>
+	<File name="plugins\compilergcc\compilerMINGW.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="537" topLine="1" />
+	</File>
+	<File name="plugins\compilergcc\compilerMINGW.h" open="0" top="0" tabpos="15">
+		<Cursor position="478" topLine="0" />
+	</File>
+	<File name="plugins\compilergcc\compilerMINGWgenerator.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="601" topLine="0" />
+	</File>
+	<File name="plugins\compilergcc\compilerMINGWgenerator.h" open="0" top="0" tabpos="17">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\compilergcc\compilerOPENRISC.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="610" topLine="0" />
+	</File>
+	<File name="plugins\compilergcc\compilerOPENRISC.h" open="0" top="0" tabpos="18">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\compilergcc\compiler_defs.cpp" open="0" top="0" tabpos="26">
+		<Cursor position="968" topLine="15" />
+	</File>
+	<File name="plugins\compilergcc\compiler_defs.h" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\compilergcc\compilererrors.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+		<Book_Marks positions="4192" />
+	</File>
+	<File name="plugins\compilergcc\compilergcc.cpp" open="0" top="0" tabpos="20">
+		<Cursor position="136884" topLine="4037" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="135704" />
+	</File>
+	<File name="plugins\compilergcc\compilergcc.h" open="0" top="0" tabpos="20">
+		<Cursor position="1650" topLine="52" />
+	</File>
+	<File name="plugins\compilergcc\compilermessages.cpp" open="0" top="0" tabpos="14">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\compilergcc\compilermessages.h" open="0" top="0" tabpos="29">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\compilergcc\compileroptionsdlg.cpp" open="0" top="0" tabpos="25">
+		<Cursor position="30076" topLine="549" />
+		<BrowseMarks positions="58888" />
+		<Book_Marks positions="0,0" />
+	</File>
+	<File name="plugins\compilergcc\compileroptionsdlg.h" open="0" top="0" tabpos="2">
+		<Cursor position="2909" topLine="54" />
+	</File>
+	<File name="plugins\compilergcc\depslib\src\cache.c" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\compilergcc\depslib\src\headers.c" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\compilergcc\depslib\src\regexp.c" open="0" top="0" tabpos="16">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\compilergcc\directcommands.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\compilergcc\directcommands.h" open="0" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\compilergcc\makefilegenerator.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="55851" topLine="1421" />
+	</File>
+	<File name="plugins\compilergcc\resources\compiler_options.xrc" open="0" top="0" tabpos="28">
+		<Cursor position="59461" topLine="1302" />
+	</File>
+	<File name="plugins\debuggergdb\backtracedlg.cpp" open="0" top="0" tabpos="25">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\debuggergdb\cpuregistersdlg.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\debuggergdb\debuggerdriver.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\debuggergdb\debuggergdb.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\debuggergdb\debuggergdb.h" open="0" top="0" tabpos="28">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\debuggergdb\debuggeroptionsdlg.cpp" open="0" top="0" tabpos="27">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\debuggergdb\debuggeroptionsdlg.h" open="0" top="0" tabpos="29">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\debuggergdb\debuggerstate.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\debuggergdb\debuggertree.cpp" open="0" top="0" tabpos="17">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\debuggergdb\disassemblydlg.cpp" open="0" top="0" tabpos="40">
+		<Cursor position="9388" topLine="274" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="plugins\debuggergdb\disassemblytextctrl.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\debuggergdb\examinememorydlg.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\debuggergdb\gdb_commands.h" open="0" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\debuggergdb\gdb_driver.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\debuggergdb\gdb_driver.h" open="0" top="0" tabpos="26">
+		<Cursor position="0" topLine="0" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="plugins\debuggergdb\gdb_tipwindow.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\defaultmimehandler\defaultmimehandler.cpp" open="0" top="0" tabpos="39">
+		<Cursor position="8089" topLine="244" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="plugins\defaultmimehandler\resources\manifest.xml" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\openfileslist\openfileslistplugin.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="584" topLine="30" />
+	</File>
+	<File name="plugins\projectsimporter\msvc7loader.cpp" open="0" top="0" tabpos="24">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\projectsimporter\msvc7workspaceloader.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="7139" topLine="167" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="plugins\projectsimporter\projectsimporter.cpp" open="0" top="0" tabpos="15">
+		<Cursor position="6100" topLine="179" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="plugins\scriptedwizard\buildtargetpanel.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\scriptedwizard\buildtargetpanel.h" open="0" top="0" tabpos="11">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\scriptedwizard\projectpathpanel.h" open="0" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\scriptedwizard\resources\common_functions.script" open="0" top="0" tabpos="11">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\scriptedwizard\resources\config.script" open="0" top="0" tabpos="12">
+		<Cursor position="4188" topLine="19" />
+	</File>
+	<File name="plugins\scriptedwizard\resources\mc\wizard.script" open="0" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\scriptedwizard\resources\plugins\wizard.script" open="0" top="0" tabpos="19">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\scriptedwizard\resources\smartwin\wizard.script" open="0" top="0" tabpos="20">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\scriptedwizard\wiz.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="plugins\scriptedwizard\wizpage.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\scriptedwizard\wizpage.h" open="0" top="0" tabpos="15">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\todo\resources\settings.xrc" open="0" top="0" tabpos="35">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="plugins\todo\todolist.cpp" open="0" top="0" tabpos="16">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\base64.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\blockallocated.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\cbeditor.cpp" open="0" top="0" tabpos="29">
+		<Cursor position="56431" topLine="1576" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="sdk\cbplugin.cpp" open="0" top="0" tabpos="21">
+		<Cursor position="1097" topLine="7" />
+	</File>
+	<File name="sdk\cbproject.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="6838" topLine="239" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="sdk\cbstyledtextctrl.cpp" open="0" top="0" tabpos="23">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\cbworkspace.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\compileoptionsbase.cpp" open="0" top="0" tabpos="27">
+		<Cursor position="3919" topLine="108" />
+	</File>
+	<File name="sdk\compiler.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="28276" topLine="656" />
+	</File>
+	<File name="sdk\compilercommandgenerator.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\compilerfactory.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="3940" topLine="105" />
+	</File>
+	<File name="sdk\compiletargetbase.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="8838" topLine="274" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="sdk\configmanager-revision.cpp" open="1" top="0" tabpos="0">
+		<Cursor position="0" topLine="0" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="sdk\configmanager.cpp" open="0" top="0" tabpos="16">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\configurationpanel.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\editorbase.cpp" open="0" top="0" tabpos="30">
+		<Cursor position="2266" topLine="238" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="sdk\editormanager.cpp" open="0" top="0" tabpos="18">
+		<Cursor position="19382" topLine="539" />
+		<BrowseMarks positions="28133,28286" />
+		<Book_Marks positions="28030" />
+	</File>
+	<File name="sdk\encodingdetector.cpp" open="0" top="0" tabpos="33">
+		<Cursor position="9220" topLine="260" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="sdk\filegroupsandmasks.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\filemanager.cpp" open="0" top="0" tabpos="27">
+		<Cursor position="1499" topLine="27" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="sdk\finddlg.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\globals.cpp" open="0" top="0" tabpos="18">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\loggers.cpp" open="0" top="0" tabpos="26">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\manager.cpp" open="0" top="0" tabpos="17">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\menuitemsmanager.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\mozilla_chardet\src\LangThaiModel.cpp" open="0" top="0" tabpos="21">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\pluginmanager.cpp" open="0" top="0" tabpos="22">
+		<Cursor position="5278" topLine="194" />
+	</File>
+	<File name="sdk\projectbuildtarget.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\projectfile.cpp" open="0" top="0" tabpos="16">
+		<Cursor position="1013" topLine="117" />
+	</File>
+	<File name="sdk\projectfileoptionsdlg.cpp" open="0" top="0" tabpos="21">
+		<Cursor position="8590" topLine="206" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="sdk\projectloader.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="47116" topLine="1211" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="sdk\projectloader_hooks.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\projectmanager.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="72836" topLine="2199" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="sdk\projectoptionsdlg.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\projectsfilemasksdlg.cpp" open="0" top="0" tabpos="25">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\resources\new_from_template.xrc" open="0" top="0" tabpos="27">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\resources\project_options.xrc" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\scripting\bindings\sc_io.cpp" open="0" top="0" tabpos="47">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\scripting\bindings\sc_plugin.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="10337" topLine="306" />
+	</File>
+	<File name="sdk\scripting\bindings\scriptbindings.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="37747" topLine="646" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="sdk\scripting\squirrel\sqmem.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\scriptsecuritywarningdlg.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\sdk_events.cpp" open="0" top="0" tabpos="14">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\searchresultslog.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\toolsmanager.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\uservarmanager.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\workspaceloader.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="3389" topLine="82" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="sdk\wxscintilla\include\wx\wxscintilla.h" open="0" top="0" tabpos="47">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\wxscintilla\src\scintilla\include\Scintilla.h" open="0" top="0" tabpos="48">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\wxscintilla\src\scintilla\src\Editor.cxx" open="0" top="0" tabpos="16">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\wxscintilla\src\scintilla\src\WindowAccessor.cxx" open="0" top="0" tabpos="49">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="sdk\wxscintilla\src\wxscintilla.cpp" open="0" top="0" tabpos="36">
+		<Cursor position="18538" topLine="601" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="src\app.cpp" open="0" top="0" tabpos="20">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\appglobals.cpp" open="1" top="0" tabpos="18">
+		<Cursor position="0" topLine="0" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="src\appglobals.h" open="1" top="1" tabpos="22">
+		<Cursor position="0" topLine="0" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="src\associations.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\dlgabout.cpp" open="0" top="0" tabpos="17">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\dlgaboutplugin.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\environmentsettingsdlg.cpp" open="0" top="0" tabpos="23">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\infopane.cpp" open="0" top="0" tabpos="22">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\main.cpp" open="0" top="0" tabpos="14">
+		<Cursor position="66299" topLine="1591" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="src\main.h" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\printdlg.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\resources\app_compiler_settings.xrc" open="0" top="0" tabpos="28">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\resources\dlg_about.xrc" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\resources\dlg_about_plugin.xrc" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\resources\env_settings.xrc" open="0" top="0" tabpos="12">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\resources\main_menu.xrc" open="0" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\splashscreen.cpp" open="0" top="0" tabpos="21">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\switcherdlg.cpp" open="0" top="0" tabpos="16">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="tools\ConsoleRunner\main.cpp" open="0" top="0" tabpos="24">
+		<Cursor position="0" topLine="0" />
+	</File>
+</BrowseTracker_layout_file>

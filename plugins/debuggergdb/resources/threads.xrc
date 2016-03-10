@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resource>
+	<object class="wxPanel" name="dlgThreads">
+		<object class="wxBoxSizer">
+			<orient>wxVERTICAL</orient>
+			<object class="sizeritem">
+				<object class="wxListCtrl" name="lstThreads">
+					<style>wxLC_REPORT|wxLC_SINGLE_SEL</style>
+				</object>
+				<flag>wxEXPAND|wxALIGN_LEFT|wxALIGN_TOP</flag>
+				<option>1</option>
+			</object>
+		</object>
+	</object>
+</resource>

@@ -1,0 +1,14 @@
+<resource>
+	<object class="wxPanel" name="dlgBacktrace">
+		<object class="wxBoxSizer">
+			<orient>wxVERTICAL</orient>
+			<object class="sizeritem">
+				<object class="wxListCtrl" name="lstTrace">
+					<style>wxLC_REPORT</style>
+				</object>
+				<flag>wxEXPAND|wxALIGN_LEFT|wxALIGN_TOP</flag>
+				<option>1</option>
+			</object>
+		</object>
+	</object>
+</resource>

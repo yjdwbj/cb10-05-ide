@@ -1,0 +1,55 @@
+<resource>
+	<object class="wxScrollingDialog" name="dlgManageAssocs">
+		<title>Manage associations</title>
+		<object class="wxBoxSizer">
+			<orient>wxVERTICAL</orient>
+			<object class="sizeritem">
+				<object class="wxStaticText" name="ID_STATICTEXT1">
+					<label>Associate MC::Tools with the following file types:</label>
+				</object>
+				<flag>wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+				<border>5</border>
+			</object>
+			<object class="sizeritem">
+				<object class="wxCheckListBox" name="checkList">
+					<size>320,400</size>
+				</object>
+				<flag>wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+				<border>5</border>
+			</object>
+			<object class="sizeritem">
+				<object class="wxFlexGridSizer">
+					<cols>4</cols>
+					<growablecols>1</growablecols>
+					<object class="sizeritem">
+						<object class="wxButton" name="clearAll">
+							<label>&amp;Remove All</label>
+						</object>
+						<flag>wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+						<border>5</border>
+					</object>
+					<object class="spacer">
+						<flag>wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+						<size>40,1</size>
+					</object>
+					<object class="sizeritem">
+						<object class="wxButton" name="wxID_CANCEL">
+							<label>&amp;Cancel</label>
+						</object>
+						<flag>wxRIGHT|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+						<border>5</border>
+					</object>
+					<object class="sizeritem">
+						<object class="wxButton" name="wxID_OK">
+							<label>&amp;Apply</label>
+						</object>
+						<flag>wxLEFT|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+						<border>5</border>
+					</object>
+				</object>
+				<flag>wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+				<border>5</border>
+			</object>
+		</object>
+	</object>
+</resource>

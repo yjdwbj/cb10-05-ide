@@ -1,0 +1,10 @@
+del *.cln
+del *.lst
+del *.cld
+del *.map
+del *.bak
+del *.bin
+del *.x
+del *.y
+del *.p
+del *.l

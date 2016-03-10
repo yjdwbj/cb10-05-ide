@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="All" />
+	<File name="cb_koders.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="cb_koders.h" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="kodersdialog.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="kodersdialog.h" open="1" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
